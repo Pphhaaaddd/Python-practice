@@ -23,7 +23,7 @@ def draw_triangle():
         david.right(120)
 
 def draw_circleFromSquare(some_turtle):
-    for i in range(30):
+    for i in range(36):
         draw_square(some_turtle)
         some_turtle.left(10)
 
