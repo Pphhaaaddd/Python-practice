@@ -15,4 +15,6 @@ JL = movie_class.Movie(m2_title,m2_storyline,m2_poster,m2_trailer)
 
 movies = [MOTOE,JL]
 
-fresh_tomatoes.open_movies_page(movies)
+#fresh_tomatoes.open_movies_page(movies)
+
+print(movie_class.Movie.RATINGS)
